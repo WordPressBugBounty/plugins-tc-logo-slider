@@ -3,8 +3,8 @@
  * Plugin Name:		   TC Logo Slider
  * Plugin URI:		   https://www.themescode.com/items/tc-logo-slider
  * Description:		   Logo Slider Carousel is an easy plugin to display logo carousel slider of clients, business partners or affiliates along with title, URL on your website.
- * Version: 		      1.8
- * Author: 			   themesCode
+ * Version: 		     1.8.1
+ * Author: 			     themesCode
  * Author URI: 		   https://www.themescode.com/items/tc-logo-slider
  * Text Domain:        tc-logo-slider
  * License:            GPL-2.0+

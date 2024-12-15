@@ -145,7 +145,8 @@ function tc_logoslider_shortcode( $atts ) {
  				          if($client_url) :
                  $tc_view.='<a href="'.$client_url.'">'; // client url
                  endif;
-               //$tc_view.='<img src="'. $logo .'" alt="'. $logo_mata .'" />';
+                 
+               $tc_view.='<img src="'. $logo .'" alt="'. $logo_mata .'" />';
 
                if($tc_resize=='yes'){
                   $tc_view.='<img src="'. $tc_resized_logo .'" alt="'. $logo_mata .'" />';

@@ -1,10 +1,11 @@
-=== Logo Slider Carousel ===
+=== Logo Slider , Logo Carousel , Logo showcase , Client Logo ===
 Contributors:themescode, imranemu
 Donate link: https://www.2checkout.com/checkout/purchase?sid=102663544&quantity=1&product_id=7
 Tags:logo, logo carousel,logo slider, slider, carousel, Logo Carousel Slider, client logo, client logo display, logo showcase, logo slide show, logo slideshow, sponsors, clients, ticker, logo carousel wordpress,
 Requires at least: 4
-Tested up to: 5.4.1
-Stable tag: 4.9.7
+Tested up to: 6.7.1
+Requires PHP: 5.4
+Stable tag: 1.8.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -162,6 +163,10 @@ Installing  TC Logo Slider is easy like  a regular WordPress plugin. Here goes t
 
 
 == Changelog ==
+
+= Version  1.8.1  (15 December, 2024) =
+
+*  Checked compatibility with WordPress 6.7.1
 
 = version  1.8 =
 
